@@ -8,4 +8,3 @@ Retrieval augmented generation là một kĩ thuật kết hợp giữa khả n�
   - Các đoạn text sẽ được đưa vào model embedding để nhúng thành những vector có độ dài 384 chiều.
   - Dữ liệu sau khi nhúng sẽ được lưu vào cơ sở dữ liệu vector(ở đây chúng tôi dùng Pinecone) dùng cho mục đích truy xuất.
   - Sử dụng thư viện Langchain để xấy dựng pipeline kết hợp giữa khả năng truy xuất của vector database và mô hình ngôn ngữ lớn (ở đây chúng tôi sử dụng Llama 2) để tạo ra câu trả lời phù hợp dựa trên dữ liệu đã được đưa vào.
-# Chi tiết vui lòng xem ở file .ipynb
