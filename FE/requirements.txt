@@ -1,0 +1,7 @@
+streamlit
+python-docx
+docx2pdf
+PyPDF2
+langchain
+langchain_community
+pypdf
