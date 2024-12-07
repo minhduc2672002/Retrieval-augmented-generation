@@ -1,4 +1,5 @@
 # Retrieval-augmented-generation for Large Language Model
+Link Demo: https://www.youtube.com/watch?v=HJTrIfLI8Ow
 ## 1.Introduce
 Retrieval augmented generation là một kĩ thuật kết hợp giữa khả năng tạo sinh của mô hình ngôn ngữ lớn(LLM) và khả năng truy xuất của hệ thống vector database để giải quyết bài toán trả lời câu hỏi, cải thiện độ chính xác.
 ## 2.Architecture
